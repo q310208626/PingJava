@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jpcap:jpcap:0.1.18-001">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jpcap/jpcap/0.1.18-001/jpcap-0.1.18-001.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jpcap/jpcap/0.1.18-001/jpcap-0.1.18-001-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jpcap/jpcap/0.1.18-001/jpcap-0.1.18-001-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
